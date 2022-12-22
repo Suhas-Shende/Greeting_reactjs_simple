@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 
 const changecolr = {};
-let gcolor;
+
 let gettime = new Date(2022, 11, 4, 17);
 gettime = gettime.getHours();
 let greet;
